@@ -193,7 +193,8 @@ python -c "import nat; print(nat.__version__)"
 
 After installation, verify you can import core components:
 
-**THIS DOESN'T WORK ANYMORE, WORKFLOW HAS CHANGED**
+**THIS DOESN'T WORK ANYMORE, WORKFLOW HAS CHANGED, AS OF JUNE 2026 THIS LINK IS ACTUAL CURRENT:**
+[NVIDIA NeMo Agent Toolkit (1.7) Hello World Example of Workflow](https://docs.nvidia.com/nemo/agent-toolkit/1.7/index.html)
 
 ```python
 from nat.agents import ReActAgent
