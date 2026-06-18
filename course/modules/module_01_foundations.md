@@ -193,6 +193,8 @@ python -c "import nat; print(nat.__version__)"
 
 After installation, verify you can import core components:
 
+**THIS DOESN'T WORK ANYMORE, WORKFLOW HAS CHANGED**
+
 ```python
 from nat.agents import ReActAgent
 from nat.tools import Tool
